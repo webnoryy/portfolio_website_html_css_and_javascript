@@ -725,7 +725,7 @@ p {
     animation: js-fill 2s forwards;
 }
 .c-fill {
-    animation: js-fill 2s forwards;
+    animation: c-fill 2s forwards;
 }
 
 .fig-fill {
