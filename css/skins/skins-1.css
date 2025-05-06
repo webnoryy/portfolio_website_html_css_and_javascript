@@ -90,4 +90,8 @@
     .portfolio-list {
         grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     }
+    .portfolio-list .img-card {
+        max-width: 300px;
+        /* width: 100%; */
+    }
 }
