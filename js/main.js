@@ -65,7 +65,7 @@ ScrollReveal({
 });
 
 ScrollReveal().reveal('.earliest, .about-specifics, .contact-form-grid', { delay: 250, origin: 'top'});
-ScrollReveal().reveal('.home-clone, .scroll, .about-clone, .skills-progress, .education-grid-card, .contact-earliest-grid', { delay: 250, origin: 'bottom'});
+ScrollReveal().reveal('.home-clone, .scroll, .about-clone, .img-card .skills-progress, .education-grid-card, .contact-earliest-grid', { delay: 250, origin: 'bottom'});
 ScrollReveal().reveal('.portfolio-grid-card, .footer-earliest, .footer-quick-links, .footer-specifics, .footer-media-modules', {
     delay: 250,
     opacity: 0,
