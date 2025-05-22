@@ -1,3 +1,11 @@
+// typed js 
+let typed = new Typed('.typed-text', {
+    strings: ['Web Developer','Freelancer', 'Web Designer'],
+    typeSpeed: 50,
+    backSpeed: 20,
+    loop: true,
+});
+
 let navMenu = document.getElementById("nav-menu");
 let menuBtn = document.getElementById("menu-btn");
 let navItems = document.querySelectorAll(".nav-menu a");
